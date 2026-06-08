@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Tech+Enthusiast;UI%2FUX+Designer+;Flutter+Developer;Learner;Freelancer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Tech+Enthusiast+;Learner;Freelancer" />
 </h3>
 
 ---
