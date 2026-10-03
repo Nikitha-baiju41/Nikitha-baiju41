@@ -1,76 +1,73 @@
-<h1 align="center">Hi , I'm NIKITHA BAIJU</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
-</p>
+# NIKITHA BAIJU
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+**B.Tech CSE | Aspiring Product Engineer**
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Tech+Enthusiast+;Learner;Freelancer" />
-</h3>
+Thiruvananthapuram, Kerala
 
----
+`building` • `learning` • `shipping`
 
-##  About Me
--  CSE Student  
--  Passionate about technology & innovation  
--  Love designing user-friendly UI/UX  
--  Exploring Web & App Development  
--  Currently building real-world projects  
+## `nikitha@github ~ $ ls projects/`
 
----
+### Track'N'plan — Expense Tracking Application
 
-##  Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/nikitha-baiju-581318397/" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://github.com/Nikitha-baiju41" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-</p>
+`Dart` `Supabase`
+
+Expense tracking application for recording and managing daily expenses, with application implementation and data handling using Dart and Supabase.
+
+### AI-Based Automated Skin Lesion Classification for Melanoma Detection
+
+`Python` `Deep Learning` `OpenCV` `Grad-CAM`
+
+Team-based deep-learning project for skin lesion classification. Contributed to project coordination, technical documentation, presentation, and progress tracking.
 
 ---
 
-## 💻 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,flutter,figma" />
-</p>
+## `nikitha@github ~ $ cat experience.txt`
+
+**Data Analytics Intern — StackUp**
+
+Practical exposure to data analytics tasks, structured problem-solving, data understanding, analysis, and technical presentation.
 
 ---
 
-## 🔥 What I Do
-- ✨ Build creative and simple projects  
--  Design clean and modern UI  
--  Learn new technologies daily  
--  Explore freelancing opportunities  
+## `nikitha@github ~ $ cat stack.txt`
+
+```text
+Programming   : Python • Java • Dart • C
+Web           : HTML • CSS
+Database      : SQL • Supabase
+AI / ML       : Deep Learning • OpenCV • Grad-CAM
+Tools         : Git • GitHub • VS Code
+Core          : OOP Basics • Debugging • Exception Handling
+```
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikitha-baiju41&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitha-baiju41&theme=tokyonight" />
-</p>
+## `nikitha@github ~ $ cat activities.txt`
+
+```text
+AWS User Group Trivandrum  → Volunteer
+AWS Student Builder Group → Core Member
+FOSS Club                 → Media Lead
+μLearn                    → Community Member
+```
 
 ---
 
-##  Activity Graph (Animated)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikitha-baiju41&theme=tokyo-night" />
-</p>
+## `nikitha@github ~ $ ./connect.sh`
+
+```text
+GitHub    → github.com/Nikitha-baiju41
+LinkedIn  → linkedin.com/in/nikitha-baiju-581318397
+Portfolio → nikitha-baiju41.github.io
+```
 
 ---
 
-##  Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nikitha-baiju41/Nikitha-baiju41/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
 
----
+`final year` • `cse` • `product`
 
-## ✨ Profile Views Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikitha-baiju41&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</div>
